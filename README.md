@@ -118,12 +118,6 @@ Navigate through the sidebar categories:
 
 ---
 
-## 🛡️ License
-
-This project is licensed under the MIT License.
-
----
-
 ## 🙏 Credits
 
 *   **Google Gemini** for the reasoning and generation capabilities.
